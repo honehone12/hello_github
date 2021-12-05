@@ -1,8 +1,8 @@
 int main()
 {
-    printf("hello world.");
+    printf("hello world.\n");
 
-    printf("hello world, again.");
+    printf("hello world, again.\n");
 
     return 0;
 }
